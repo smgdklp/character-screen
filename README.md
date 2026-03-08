@@ -1,2 +1,2 @@
-# character-screen
-映射字符画，自带动画生成器
+# wincapture
+作为生产者对象创立，抓屏有五帧缓存
